@@ -648,4 +648,8 @@ html{
         top: 20px;
         right: 15px;
     }
+
+    .form-input{
+      margin-bottom: 15px;
+    }
 }
